@@ -1,2 +1,4 @@
 .P1venv/
 Project_1.code-workspace
+.ipynb_checkpoints/ 
+__pycache__/
